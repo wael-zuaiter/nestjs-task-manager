@@ -1,0 +1,9 @@
+db:
+  type: postgres
+  port: 5432
+  host: ec2-34-193-232-231.compute-1.amazonaws.com
+  database: diajlgfna5fai
+  username: fouoyqmxzpwicg
+  password: c4a8e7b3f5cb66b81435ab2347435126365ee1d4f593c4408479a9d941b2a834
+  uri: postgres://fouoyqmxzpwicg:c4a8e7b3f5cb66b81435ab2347435126365ee1d4f593c4408479a9d941b2a834@ec2-34-193-232-231.compute-1.amazonaws.com:5432/diajlgfna5fai
+  synchronize: true

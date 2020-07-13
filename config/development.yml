@@ -1,0 +1,12 @@
+jwt:
+  secret: 'waelZoaiter'
+  expiresIn: 3600
+  
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'taskmanager'
+  host: 'localhost'
+  username: 'postgres'
+  password: 'postgres'
+  synchronize: true
